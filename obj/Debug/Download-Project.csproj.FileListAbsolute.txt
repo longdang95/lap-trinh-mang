@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\DownloadApp\Download2\bin\Debug\DownloadProject.exe.config
+C:\Users\pc\source\repos\DownloadApp\Download2\bin\Debug\DownloadProject.exe
+C:\Users\pc\source\repos\DownloadApp\Download2\bin\Debug\DownloadProject.pdb
+C:\Users\pc\source\repos\DownloadApp\Download2\obj\Debug\Download-Project.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\DownloadApp\Download2\obj\Debug\Download2.DownloadProject.resources
+C:\Users\pc\source\repos\DownloadApp\Download2\obj\Debug\DownloadProject.Properties.Resources.resources
+C:\Users\pc\source\repos\DownloadApp\Download2\obj\Debug\Download-Project.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\DownloadApp\Download2\obj\Debug\Download-Project.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DownloadApp\Download2\obj\Debug\DownloadProject.exe
+C:\Users\pc\source\repos\DownloadApp\Download2\obj\Debug\DownloadProject.pdb
